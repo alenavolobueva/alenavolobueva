@@ -1,30 +1,44 @@
-# Привет, я Алёна 👋
+# Hi, I'm Alena 👋
 
 ### Product Manager
 
-Развиваю цифровые B2C-продукты на стыке продукта, маркетинга, UX и разработки. Превращаю пользовательские проблемы и бизнес-задачи в гипотезы, проверяю их данными и довожу решения от discovery до запуска.
+I build and grow digital B2C products at the intersection of product, marketing, UX, and engineering. I turn user problems and business needs into hypotheses, validate them with data, and take solutions from discovery to launch.
 
-## Чем я занимаюсь
+## What I do
 
-- развиваю сайт как продукт и ключевой канал онлайн-продаж;
-- исследую пользовательский путь и конверсионные воронки;
-- провожу CustDev, UX-исследования и A/B-тесты;
-- работаю с продуктовыми метриками: **CR, DAU, MAU, Retention**;
-- формирую и приоритизирую backlog;
-- координирую кросс-функциональные команды разработки, аналитики, дизайна, SEO, контента и QA;
-- запускаю MVP и масштабирую решения на основе данных.
+- develop websites as products and key online sales channels;
+- analyze user journeys and conversion funnels;
+- conduct customer development interviews, UX research, and A/B tests;
+- work with product metrics, including **CR, DAU, MAU, and Retention**;
+- build and prioritize product backlogs;
+- coordinate cross-functional teams across engineering, analytics, design, SEO, content, and QA;
+- launch MVPs and scale solutions based on data.
 
-## Результаты
+## Selected results
 
-- **112% выполнения плана продаж** через сайт благодаря оптимизации пользовательского пути и конверсионной воронки;
-- запуск направления мобильной связи с нуля: продуктовые страницы, лендинги и формы заявок — **141% выполнения квартального плана**;
-- запуск MVP сервиса проверки скорости интернета и масштабирование до **200 000+ пользователей в месяц**;
-- рост органического трафика продуктового блога в **2,5 раза за год**.
+- achieved **112% of the website sales target** by optimizing the user journey and conversion funnel;
+- launched a mobile services vertical from scratch, including product pages, landing pages, and application forms, reaching **141% of the quarterly target**;
+- launched an MVP internet speed test and scaled it to **200,000+ monthly users**;
+- increased organic traffic to the product blog by **2.5× in one year**.
 
-## Мой подход
+## My approach
 
-Стараюсь принимать решения на основе данных, но всегда держу в фокусе реальный пользовательский опыт и ценность для бизнеса.
+I make data-informed decisions while keeping real user needs, customer experience, and business value at the center.
 
-## Связаться со мной
+## Tools & expertise
 
-[LinkedIn](https://www.linkedin.com/in/alenavolobueva/)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="52" height="52" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="52" height="52" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="Confluence" title="Confluence" width="52" height="52" />
+</p>
+
+**Product Discovery** · **Product Delivery** · **CustDev** · **UX Research** · **A/B Testing** · **Web Analytics** · **Funnel Optimization** · **Backlog Prioritization** · **Agile**
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/alenavolobueva/)
+- [Telegram](https://t.me/alena_volobueva) — @alena_volobueva
+- [Email](mailto:volobueva.alena@gmail.com) — volobueva.alena@gmail.com
