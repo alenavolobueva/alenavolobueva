@@ -40,5 +40,5 @@ I make data-informed decisions while keeping real user needs, customer experienc
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/alenavolobueva/)
-- [Telegram](https://t.me/alena_volobueva) — @alena_volobueva
-- [Email](mailto:volobueva.alena@gmail.com) — volobueva.alena@gmail.com
+- Telegram — [@alena_volobueva](https://t.me/alena_volobueva)
+- Email — [volobueva.alena@gmail.com](mailto:volobueva.alena@gmail.com)
